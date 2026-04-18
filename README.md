@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [academic projects and actively looking for a PFA internship](https://github.com/elidsimo)
 - 🌱 I'm currently learning **Cloud Computing, Cybersecurity, Big Data, AI**
-- 👯 I'm looking to collaborate on [Full-Stack Web Applications (React / Spring Boot)](https://github.com/elidsimo)
+- 👯 I'm looking to collaborate on [Full-Stack Web Applications ](https://github.com/elidsimo)
 - 🤝 I'm looking for help with [Cloud Architecture & DevOps (Docker, Deployment)](https://github.com/elidsimo)
 - 👨‍💻 All of my projects are available at [https://github.com/elidsimo](https://github.com/elidsimo)
 - 💬 Ask me about **Full-Stack Development, REST APIs, Docker & DevOps, Cloud Computing, Cybersecurity (OWASP Top 10), AI**
