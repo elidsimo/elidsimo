@@ -1,44 +1,169 @@
-<h1 align="center">Hi 👋, I'm EL-IDRYSY Mohamed</h1>
-<h3 align="center">Full-Stack Developer | Cloud & Cybersecurity | Engineering Student @ ENSA Khouribga</h3>
+<h1 align="center">Salut, je suis Mohamed EL-IDRYSY 👋</h1>
+<h3 align="center">Étudiant Ingénieur en Génie Informatique | Full-Stack · Cloud · Cybersécurité</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Java+%7C+Spring+Boot+%7C+React);Cloud+%26+DevOps+Enthusiast+(Docker+%7C+K8s);Passionn%C3%A9+de+S%C3%A9curit%C3%A9+Offensive+%26+D%C3%A9fensive;%C3%89tudiant+%C3%A0+l'ENSA+Khouribga+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-el-idrysy" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-el-idrysy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:elidrysymohamed2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/elidsimo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🖥️ Languages & Tools</h3>
-<table border="0" cellspacing="0" cellpadding="10">
+### 🧭 À propos de moi
+
+- 🎓 En **2ᵉ année Cycle Ingénieur Génie Informatique** à l'**ENSA Khouribga**
+- 💻 Je développe des applications **Full-Stack** avec **Java / Spring Boot**, **React JS** et **PHP**
+- ☁️ Passionné par le **Cloud**, le **DevOps** et l'orchestration de conteneurs (**Docker**, **Kubernetes**)
+- 🔐 Intéressé par la **sécurité offensive & défensive** (OWASP Top 10, tests d'intrusion, cryptographie)
+- 📊 En apprentissage du **Big Data** (Hadoop, Spark, Kafka) et des bases **NoSQL**
+- 🎯 **À la recherche d'un stage PFA (2 mois)** en Full-Stack, Cloud/DevOps ou Sécurité Web
+- 🌍 Basé à Khouribga, Maroc
+
+---
+
+### 🚀 Projets phares
+
+<table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br/>C</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/><br/>PHP</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/><br/>MATLAB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/>CSS3</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/>React</td>
+    <td>🔹 <b><a href="#">Cloud-Native Job Processing System</a></b><br/>
+      API REST asynchrone avec queue Redis (BullMQ), workers distribués, orchestration Kubernetes, persistance PostgreSQL (Prisma ORM), supervision Prometheus/Grafana et pipeline CI/CD Jenkins.<br/>
+      <code>Docker</code> <code>Kubernetes</code> <code>Redis</code> <code>PostgreSQL</code> <code>Jenkins</code>
+    </td>
   </tr>
-  <tr><td colspan="20" height="20"></td></tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><br/>Spring Boot</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/><br/>Postman</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/><br/>Oracle</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br/>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/><br/>Nginx</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux</td>
-    <td align="center"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" height="30"/><br/>Hadoop</td>
+    <td>🔹 <b><a href="#">Application de Gestion de Cabinet Médical</a></b><br/>
+      Application Full-Stack pour la gestion des patients, rendez-vous et dossiers médicaux : backend Spring Boot/JEE, interface React JS, base MySQL.<br/>
+      <code>Spring Boot</code> <code>JEE</code> <code>React JS</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td>🔹 <b><a href="#">Conteneurisation avec Docker</a></b><br/>
+      Déploiement multi-services (Nginx, MySQL), création d'images Dockerfile, gestion des volumes et réseaux, orchestration via Docker Compose.<br/>
+      <code>Docker</code> <code>Docker Compose</code> <code>Nginx</code> <code>Linux</code>
+    </td>
+  </tr>
+  <tr>
+    <td>🔹 <b><a href="#">Agent IA – Jeu Connect 5</a></b><br/>
+      Agent autonome sur grille 16×16 basé sur une stratégie Minimax avec élagage Alpha-Beta et heuristiques personnalisées, décision en moins d'une seconde.<br/>
+      <code>Python</code> <code>Minimax</code> <code>Alpha-Beta</code>
+    </td>
+  </tr>
+  <tr>
+    <td>🔹 <b><a href="#">Cryptographie – Cryptosystèmes classiques & modernes</a></b><br/>
+      Implémentation de Vigenère, Hill et masque jetable, ainsi qu'une étude du cryptosystème Goldwasser-Micali (principe, cryptanalyse, implémentation).<br/>
+      <code>Python</code> <code>Cryptographie</code>
+    </td>
+  </tr>
+  <tr>
+    <td>🔹 <b><a href="#">Supervision Réseau SNMP avec Zabbix</a></b><br/>
+      Monitoring réseau avec agents SNMP et tableaux de bord Zabbix.<br/>
+      <code>Linux</code> <code>SNMP</code> <code>Zabbix</code>
+    </td>
   </tr>
 </table>
+
+> 💡 *Remplace les liens `#` ci-dessus par les URLs de tes dépôts GitHub correspondants.*
+
+---
+
+### 🛠️ Stack technique
+
+**Langages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
+
+**Frontend & Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+**Bases de données**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40"/>
+</p>
+
+**Cloud, DevOps & Big Data**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="30"/>
+</p>
+
+**Sécurité & Outils**
+<p>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🔐 Expérience en sécurité
+
+- Utilisation d'**OWASP ZAP** et **Wireshark** pour l'analyse de vulnérabilités et de trafic réseau
+- Identification de failles **XSS**, **SQLi**, **IDOR** et mise en place de contre-mesures
+- Formation **OWASP Top 10** – vulnérabilités web et corrections
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elidsimo&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidsimo&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elidsimo&hide_border=true" />
+</p>
+
+---
+
+### 📫 Me contacter
+
+<p align="left">
+  📧 <a href="mailto:elidrysymohamed2005@gmail.com">elidrysymohamed2005@gmail.com</a> &nbsp;|&nbsp;
+  📱 +212 649 975 038 &nbsp;|&nbsp;
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/mohamed-el-idrysy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/elidsimo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center"><i>Ouvert à un stage PFE en Full-Stack, Cloud/DevOps ou Sécurité Web 🚀</i></p>
