@@ -32,14 +32,26 @@
 ### 🚀 Projets phares
 
 <table>
+   <tr>
+    <td>🔹 <b><a href="https://github.com/elidsimo/CyberThreatDetection">Système de détection et d'alerte précoce des cybermenaces (PME)</a></b><br/>
+      Prototype de bout en bout : collecte d'URLs suspectes depuis une source de Threat Intelligence publique (URLhaus/PhishTank), détection de phishing par un modèle de Machine Learning (scikit-learn), tableau de bord        Streamlit et alertes automatiques par e-mail.<br/>
+      <code>Python</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Machine Learning</code> <code>Threat Intelligence</code>
+    </td>
+  </tr>
   <tr>
-    <td>🔹 <b><a href="#">Cloud-Native Job Processing System</a></b><br/>
+    <td>🔹 <b><a href="https://github.com/elidsimo/lot-d-seo-geo-content">AI SEO & GEO Automation Platform — Agents SEO, GEO & Content</a></b><br/>
+      Contribution aux agents IA d'une plateforme SaaS d'optimisation SEO/GEO : audit on-page & technique, optimisation pour les moteurs de réponse IA (FAQ, entités), génération de contenu, et production de propositions       de correction structurées (meta, H1, Schema.org, Open Graph) validées via un service NestJS.<br/>
+      <code>NestJS</code> <code>Zod</code> <code>LLM</code> <code>pgvector</code> <code>SEO/GEO</code>
+    </td>
+  </tr>
+  <tr>
+    <td>🔹 <b><a href="https://github.com/elidsimo/cloud-native-job-system">Cloud-Native Job Processing System</a></b><br/>
       API REST asynchrone avec queue Redis (BullMQ), workers distribués, orchestration Kubernetes, persistance PostgreSQL (Prisma ORM), supervision Prometheus/Grafana et pipeline CI/CD Jenkins.<br/>
       <code>Docker</code> <code>Kubernetes</code> <code>Redis</code> <code>PostgreSQL</code> <code>Jenkins</code>
     </td>
   </tr>
   <tr>
-    <td>🔹 <b><a href="#">Application de Gestion de Cabinet Médical</a></b><br/>
+    <td>🔹 <b><a href="https://github.com/elidsimo/Optimisation_Processus_Administratifs_Cabinet_Medical">Application de Gestion de Cabinet Médical</a></b><br/>
       Application Full-Stack pour la gestion des patients, rendez-vous et dossiers médicaux : backend Spring Boot/JEE, interface React JS, base MySQL.<br/>
       <code>Spring Boot</code> <code>JEE</code> <code>React JS</code> <code>MySQL</code>
     </td>
@@ -51,26 +63,12 @@
     </td>
   </tr>
   <tr>
-    <td>🔹 <b><a href="#">Agent IA – Jeu Connect 5</a></b><br/>
+    <td>🔹 <b><a href="https://github.com/elidsimo/Agent_IA-JeuConnect5">Agent IA – Jeu Connect 5</a></b><br/>
       Agent autonome sur grille 16×16 basé sur une stratégie Minimax avec élagage Alpha-Beta et heuristiques personnalisées, décision en moins d'une seconde.<br/>
       <code>Python</code> <code>Minimax</code> <code>Alpha-Beta</code>
     </td>
   </tr>
-  <tr>
-    <td>🔹 <b><a href="#">Cryptographie – Cryptosystèmes classiques & modernes</a></b><br/>
-      Implémentation de Vigenère, Hill et masque jetable, ainsi qu'une étude du cryptosystème Goldwasser-Micali (principe, cryptanalyse, implémentation).<br/>
-      <code>Python</code> <code>Cryptographie</code>
-    </td>
-  </tr>
-  <tr>
-    <td>🔹 <b><a href="#">Supervision Réseau SNMP avec Zabbix</a></b><br/>
-      Monitoring réseau avec agents SNMP et tableaux de bord Zabbix.<br/>
-      <code>Linux</code> <code>SNMP</code> <code>Zabbix</code>
-    </td>
-  </tr>
 </table>
-
-> 💡 *Remplace les liens `#` ci-dessus par les URLs de tes dépôts GitHub correspondants.*
 
 ---
 
@@ -163,4 +161,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
   </a>
 </p>
-
