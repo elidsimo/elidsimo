@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm EL-IDRYSY Mohamed</h1>
 <h3 align="center">Full-Stack Developer | Cloud & Cybersecurity | Engineering Student @ ENSA Khouribga</h3>
 
-<ul>
-  <li>🔭 I'm currently working on <a href="#">academic projects and actively looking for a PFA internship</a></li>
-  <li>🌱 I'm currently learning <strong>Cloud Computing, Cybersecurity, Big Data, AI</strong></li>
-  <li>👯 I'm looking to collaborate on <a href="#">Full-Stack Web Applications</a></li>
-  <li>🤝 I'm looking for help with <a href="#">Cloud Architecture & DevOps (Docker, Deployment)</a></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/elidsimo">https://github.com/elidsimo</a></li>
-  <li>💬 Ask me about <strong>Full-Stack Development, REST APIs, Docker & DevOps, Cloud Computing, Cybersecurity (OWASP Top 10), AI</strong></li>
-  <li>📫 How to reach me: <a href="mailto:elidrysymohamed2005@gmail.com">elidrysymohamed2005@gmail.com</a></li>
-</ul>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
