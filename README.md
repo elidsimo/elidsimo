@@ -26,8 +26,6 @@
 - ☁️ Passionné par le **Cloud**, le **DevOps** et l'orchestration de conteneurs (**Docker**, **Kubernetes**)
 - 🔐 Intéressé par la **sécurité offensive & défensive** (OWASP Top 10, tests d'intrusion, cryptographie)
 - 📊 En apprentissage du **Big Data** (Hadoop, Spark, Kafka) et des bases **NoSQL**
-- 🎯 **À la recherche d'un stage PFA (2 mois)** en Full-Stack, Cloud/DevOps ou Sécurité Web
-- 🌍 Basé à Khouribga, Maroc
 
 ---
 
@@ -166,4 +164,3 @@
   </a>
 </p>
 
-<p align="center"><i>Ouvert à un stage PFE en Full-Stack, Cloud/DevOps ou Sécurité Web 🚀</i></p>
