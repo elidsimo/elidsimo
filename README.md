@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant Ingénieur en Génie Informatique | Full-Stack · Cloud · Cybersécurité</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Java+%7C+Spring+Boot+%7C+React);Cloud+%26+DevOps+(Docker+%7C+K8s);Passionn%C3%A9+de+S%C3%A9curit%C3%A9+Offensive+%26+D%C3%A9fensive;%C3%89tudiant+%C3%A0+l'ENSA+Khouribga+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+DevOps;Passionn%C3%A9+de+S%C3%A9curit%C3%A9+Offensive+%26+D%C3%A9fensive;%C3%89tudiant+%C3%A0+l'ENSA+Khouribga+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
 </p>
 
 <p align="center">
