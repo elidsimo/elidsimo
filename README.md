@@ -21,8 +21,7 @@
 
 ### 🧭 À propos de moi
 
-- 🎓 En **2ᵉ année Cycle Ingénieur Génie Informatique** à l'**ENSA Khouribga**
-- 💻 Je développe des applications **Full-Stack** avec **Java / Spring Boot**, **React JS** et **PHP**
+- 🎓 En **3ᵉ année Cycle Ingénieur Génie Informatique** à l'**ENSA Khouribga**
 - ☁️ Passionné par le **Cloud**, le **DevOps** et l'orchestration de conteneurs (**Docker**, **Kubernetes**)
 - 🔐 Intéressé par la **sécurité offensive & défensive** (OWASP Top 10, tests d'intrusion, cryptographie)
 - 📊 En apprentissage du **Big Data** (Hadoop, Spark, Kafka) et des bases **NoSQL**
