@@ -23,7 +23,6 @@
 
 - 🎓 Dernière année (3ᵉ année) du **Cycle Ingénieur Génie Informatique** à l'**ENSA Khouribga** — option *Sécurité, Cloud & Ingénierie Logicielle*
 - 🎯 **À la recherche d'un stage PFE** en **Cloud / DevOps / Platform Engineering**
-- ☁️ Je construis des plateformes **GitOps** (ArgoCD), **DevSecOps** et **observabilité** sur **Kubernetes**
 - 🔐 Passionné par la **sécurité Cloud** et la **cybersécurité** : offensive & défensive, DevSecOps, Threat Intelligence, cryptographie
 - 🌍 Langues : Arabe (maternelle) · Français (courant) · Anglais (courant)
 
