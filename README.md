@@ -13,8 +13,10 @@
 
 <p align="center"><img src="notes.svg" alt="Liner notes" width="100%"/></p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elidsimo&show_icons=true&hide_border=false&bg_color=0a1118&title_color=00d4ff&text_color=e6edf3&icon_color=2f80ed&border_color=1d3342" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidsimo&layout=compact&langs_count=6&bg_color=0a1118&title_color=00d4ff&text_color=e6edf3&icon_color=2f80ed&border_color=1d3342" />
+  <img src="https://img.shields.io/github/followers/elidsimo?style=for-the-badge&logo=github&color=00d4ff&labelColor=0a1118" />
+  <img src="https://img.shields.io/github/last-commit/elidsimo/gitops-platform?style=for-the-badge&logo=git&color=2f80ed&labelColor=0a1118" />
+  <img src="https://img.shields.io/github/languages/top/elidsimo/gitops-platform?style=for-the-badge&color=00d4ff&labelColor=0a1118" />
+  <img src="https://img.shields.io/github/languages/top/elidsimo/cloud-native-job-system?style=for-the-badge&color=2f80ed&labelColor=0a1118" />
 </p>
 
 ---
