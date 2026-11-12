@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="EL-IDRYSY Mohamed — Cloud / DevOps" width="100%"/>
+  <img src="header.svg" alt="EL-IDRYSY Mohamed — Cloud / DevOps" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
   <a href="https://github.com/elidsimo/lot-d-seo-geo-content">lot-d-seo-geo-content</a>
 </p>
 
-<p align="center"><img src="assets/notes.svg" alt="Liner notes" width="100%"/></p>
-<p align="center"><img src="assets/genres.svg" alt="Genres" width="100%"/></p>
+<p align="center"><img src="notes.svg" alt="Liner notes" width="100%"/></p>
+<p align="center"><img src="genres.svg" alt="Genres" width="100%"/></p>
 
 ---
 
